@@ -8,7 +8,7 @@ using various model evaluation techniques (Accuracy, Precision, Recall, F1-Score
 In deployment we create a dash web app and deploy our model on heroku server. We create a user interface where the model can be used to predict with single or batch data upload and prediction.
 The web app has three web interface; The data Exploration section, The Model training and Feature selection section and The Model Prediction and results presentation section.
 The project is hosted here <a href="https://qaml.herokuapp.com/apps/telco_customer_churn" target="blank">Telco Customer Churn ML Project</a>
-1. ![Telco Customer Churn Data Exploration](https://github.com/SammyOngaya/Deploying-Analytics-ML-Apps/blob/master/dash/assets/world-gdp-analysis-app.PNG)
+1. ![Telco Customer Churn Data Exploration](https://raw.githubusercontent.com/SammyOngaya/Customer-Churn-Prediction/master/Notebooks/Churn%20Models/Telco%20Customer%20Churn%20Data%20Exploration.PNG)
 
 2. ![Telco Customer Churn Modeling](https://github.com/SammyOngaya/Deploying-Analytics-ML-Apps/blob/master/dash/assets/world-gdp-analysis-app.PNG)
 
