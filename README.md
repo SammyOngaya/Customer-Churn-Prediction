@@ -10,7 +10,7 @@ The web app has three web interface; The data Exploration section, The Model tra
 The project is hosted here <a href="https://qaml.herokuapp.com/apps/telco_customer_churn" target="blank">Telco Customer Churn ML Project</a>
 1. ![Telco Customer Churn Data Exploration](https://raw.githubusercontent.com/SammyOngaya/Customer-Churn-Prediction/master/Notebooks/Churn%20Models/Telco%20Customer%20Churn%20Data%20Exploration.PNG)
 
-2. ![Telco Customer Churn Modeling](https://github.com/SammyOngaya/Deploying-Analytics-ML-Apps/blob/master/dash/assets/world-gdp-analysis-app.PNG)
+2. ![Telco Customer Churn Modeling](https://raw.githubusercontent.com/SammyOngaya/Customer-Churn-Prediction/master/Notebooks/Churn%20Models/Telco%20Customer%20Churn%20ML%20Modeling.PNG)
 
 
-3. ![Telco Customer Churn Model Prediction and Results Presentation](https://github.com/SammyOngaya/Deploying-Analytics-ML-Apps/blob/master/dash/assets/world-gdp-analysis-app.PNG)
+3. ![Telco Customer Churn Model Prediction and Results Presentation](https://github.com/SammyOngaya/Customer-Churn-Prediction/blob/master/Notebooks/Churn%20Models/Telco%20Customer%20Churn%20Model%20Prediction.PNG?raw=true)
